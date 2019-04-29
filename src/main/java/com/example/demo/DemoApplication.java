@@ -1,4 +1,4 @@
-/* comment */
+/* comment something */
 package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
